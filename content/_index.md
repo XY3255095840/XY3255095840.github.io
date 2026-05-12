@@ -1,51 +1,44 @@
 ---
-title: 'Home'
-date: 2023-10-24
-type: landing
-
-# Note: `username` refers to the user's folder name in `content/authors/`
-
-# Page sections
+title: "Home"
+summary: ""
+date: "2023-10-24"
+type: "landing"
 sections:
-  - block: biography
+  - block: "biography"
     content:
-      username: me
-      # Show a call-to-action button under your biography? (optional)
+      username: "me"
       button:
-        text: Download Résumé
-        url: uploads/resume.pdf
+        text: "Download Résumé"
+        url: "uploads/resume.pdf"
     design:
       show_status: false
       spacing:
-        padding: ['0', '0', '6rem', '0']
+        padding:
+          - "0"
+          - "0"
+          - "6rem"
+          - "0"
       banner:
-        # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
+        filename: "kalen-emsley-Bkci_8qcdvQ-unsplash.jpg"
       biography:
-        # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 0.8em;'
-      # Avatar customization
+        style: "text-align: justify; font-size: 0.8em;"
       avatar:
-        size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: rounded # Options: circle (default), square, rounded
-  - block: experience
+        size: "large"
+        shape: "rounded"
+    ce: "section-dd47c807"
+    As: "section-4b982336"
+  - block: "experience"
     content:
-      username: me
+      username: "me"
     design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
+      date_format: "January 2006"
       is_education_first: false
-  - block: skills
+    ce: "section-beed6205"
+    As: "section-7d0e5c87"
+  - block: "awards"
     content:
-      title: Skills & Hobbies
-      username: me
-  - block: awards
-    content:
-      title: Awards
-      username: me
-  - block: languages
-    content:
-      title: Languages
-      username: me
+      title: "Awards"
+      username: "me"
+    ce: "section-0ffe6fe2"
+    As: "section-2ac1b76d"
 ---
