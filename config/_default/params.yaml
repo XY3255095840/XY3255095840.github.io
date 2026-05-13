@@ -4,7 +4,7 @@ hugoblox:
     name: YangXu
     type: person
     tagline: AI researcher
-    description: ""
+    description: Yang Xu is a undergraduate student majoring in Information and Computational Science at South China Normal University, focusing on Deep Learning.
   theme:
     mode: system
     pack: default
