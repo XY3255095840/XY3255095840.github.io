@@ -2,138 +2,85 @@ schema: "hugoblox/author/v1"
 slug: "me"
 is_owner: true
 name:
-  display: "YangXu"
-  given: "Shiung Wu"
-  family: "Chien"
-  pronunciation: "Chien Shiung Wu"
-  pronouns: "she/her"
+  display: "Yang Xu"
+  given: "Yang"
+  family: "Xu"
+  pronunciation: "Yang Xu"
+  pronouns: "he/him"
 status:
-  icon: "☕️"
-role: "Director of Cloud Infrastructure"
-bio: "I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.\n"
+  icon: "🎓"
+role: "Undergraduate Student in Information and Computational Science"
+bio: "I am an undergraduate student at South China Normal University, majoring in Information and Computational Science. My research interests include Deep Learning, solving Partial Differential Equations (PDEs) and Object Detection. Currently, I am actively exploring the emerging field of World Models.\n"
 affiliations:
-  - name: "GenCoin"
-    url: "https://www.example.com/"
+  - name: "South China Normal University"
+    url: "https://www.scnu.edu.cn/"
 links:
   - icon: "at-symbol"
-    url: "mailto:your-email@example.com"
+    url: "mailto:3255095840@qq.com"
     label: "E-mail Me"
-  - icon: "brands/x"
-    url: "https://x.com/GoOwnable"
   - icon: "brands/github"
-    url: "https://github.com/gcushen"
-  - icon: "brands/linkedin"
-    url: "https://www.linkedin.com/"
-  - icon: "brands/instagram"
-    url: "https://www.instagram.com/"
+    url: "https://github.com/XY3255095840"
 education:
-  - degree: "PhD Artificial Intelligence"
-    institution: "Stanford University"
-    start: "2016-01-01"
-    end: "2020-12-31"
-    summary: "Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.\n"
-    button:
-      text: "Read Thesis"
-      url: "https://example.com"
-  - degree: "MEng Artificial Intelligence"
-    institution: "Massachusetts Institute of Technology"
-    start: "2016-01-01"
-    end: "2020-12-31"
-    summary: "GPA: 3.8/4.0
+  - degree: "BSc in Information and Computational Science"
+    institution: "South China Normal University"
+    start: "2023-09-01"
+    end: ""
+    summary: "Focusing on the intersection of mathematics and computer science, with a strong emphasis on Deep Learning and AI applications.\n"
 
 
-      Courses included:
-
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit\n"
-  - degree: "BSc Artificial Intelligence"
-    institution: "Massachusetts Institute of Technology"
-    start: "2016-01-01"
-    end: "2020-12-31"
-    summary: "GPA: 3.4/4.0
-
-
-      Courses included:
-
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit\n"
 experience:
-  - role: "Director of Cloud Infrastructure"
-    org: "GenCoin"
-    start: "2021-01-01"
-    summary: "Responsibilities include:
+  - role: "Vice President"
+    org: "Applied Mathematics Society, South China Normal University"
+    start: "2024-09-01"
+    end: "2025-06-30"
+    summary: "Responsibilities include:\n- Organized seminars on mathematical paper writing and modeling, and coordinated various math competitions.\n- Spearheaded the planning and successful execution of the 'Guangzhou University Mathematical Modeling Invitational Tournament', significantly enhancing the society's influence on and off campus.\n- Actively promoted and managed social practice initiatives and public welfare projects."
+  - role: "Technical Management"
+    org: "Guangdong Yuehai Yuexi Water Supply Co., Ltd."
+    start: "2025-07-01"
+    end: "2025-07-31"
+    summary: "Responsibilities include:\n- Assisted in formulating the company's AI technology application guidelines.\n- Coordinated with external software vendors for project development, conducting preliminary requirements gathering.\n- Defined product design objectives and core functionalities for software projects."
 
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - role: "Intern Engineer"
+    org: "Guangzhou Xinbang Intelligent Equipment Co., Ltd."
+    start: "2025-08-01"
+    end: "2025-09-01"
+    summary: "Responsibilities include:\n- Participated in robotics projects within the Aviation Equipment Division and assisted in hardware selection.\n- Designed and calibrated robot motion programs.\n- Developed and trained computer vision models for robotic tasks."
 
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - role: "Teaching Assistant"
+    org: "School of Mathematical Sciences, South China Normal University"
+    start: "2025-10-01"
+    end: "2026-02-01"
+    summary: "Responsibilities include:\n- Assisted Prof. Qi Ye in designing experimental content for Chapter 4 of the textbook 'Optimization Methods and Machine Learning' (a National 14th Five-Year Plan textbook).\n- Developed and implemented experiments for optimization algorithms, including Gradient Descent, Subgradient Methods, Line Search, and Newton's Method.\n- Evaluated and documented the performance metrics and theoretical limitations of various optimization approaches."
 
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit\n"
-  - role: "Backend Software Engineer"
-    org: "X"
-    start: "2016-01-01"
-    end: "2020-12-31"
-    summary: "Responsibilities include:
 
-      - Migrated infrastructure to a new data center
 
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit\n"
+publications: []
 skills:
   - name: "Technical Skills"
     items:
       - label: "Python"
         level: 4
-      - label: "RStudio"
-        level: 5
-      - label: "PyTorch"
-        level: 2
-  - name: "Hobbies"
-    color: "#eeac02"
-    color_border: "#f0bf23"
-    items:
-      - label: "Hiking"
+      - label: "C++"
         level: 3
-      - label: "Cats"
-        level: 5
-      - label: "Photography"
+      - label: "MATLAB"
+        level: 3
+      - label: "PyTorch"
+        level: 3
+      - label: "Deep Learning"
         level: 4
+  - name: "Interests"
+    items:
+      - label: "PDEs"
+        level: 4
+      - label: "Object Detection"
+        level: 4
+      - label: "LLMs"
+        level: 3
 languages:
-  - name: "English"
-    level: 5
   - name: "Chinese"
-    level: 4
-  - name: "Portuguese"
-    level: 1
-awards:
-  - title: "Neural Networks and Deep Learning"
-    url: "https://www.coursera.org/learn/neural-networks-deep-learning"
-    date: "2023-11-25"
-    awarder: "Coursera"
-    icon: "brands/coursera"
-    summary: "I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.\n"
-  - title: "Blockchain Fundamentals"
-    url: "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-    date: "2023-07-01"
-    awarder: "edX"
-    icon: "brands/edx"
-    summary: "Learned:
-
-      - Synthesize your own blockchain solutions
-
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm\n"
-  - title: "Object-Oriented Programming in R"
-    url: "https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r"
-    certificate_url: "https://www.datacamp.com"
-    date: "2023-01-21"
-    awarder: "datacamp"
-    icon: "brands/datacamp"
-    summary: "Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.\n"
+    level: 5
+  - name: "English"
+    level: 3
+awards: 
+  - title: "Coming Soon"

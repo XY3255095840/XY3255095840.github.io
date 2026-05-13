@@ -12,6 +12,8 @@ public/
 # Hugo resources (processed assets)
 resources/
 
+
+
 # Hugo build lock
 .hugo_build.lock
 
@@ -67,3 +69,5 @@ Desktop.ini
 
 *.log
 npm-debug.log*
+# 忽略 ignoredoc 文件夹
+ignoredoc/
