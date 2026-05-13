@@ -90,7 +90,7 @@ awards:
     icon: "fas/trophy"
     awarder: "Greater Bay Area 'AI for Science' Technology Competition"
     date: "2025-10-01"
-    summary: "Ranked 1st among nearly 400 competing teams. Designed a Feature-Modulated Neural Network based on Physics-Informed Neural Networks (PINNs) to effectively solve high-frequency PDEs. Invited to present this research at the 2025 Hunan-Guangdong Joint Annual Conference on Computational Mathematics."
+    summary: "Ranked 1st among nearly 400 competing teams. Designed a Feature-Modulated Neural Network (FMNN)  based on Physics-Informed Neural Networks (PINNs) to effectively solve high-frequency PDEs. Invited to present this research at the 2025 Hunan-Guangdong Joint Annual Conference on Computational Mathematics."
 
   - title: "Silver Award (2nd Place)"
     icon: fas/award
