@@ -30,7 +30,7 @@ education:
 
 experience:
   - role: "Vice President"
-    org: "Applied Mathematics Society, South China Normal University"
+    org: "Applied Mathematics Research Society, South China Normal University"
     start: "2024-09-01"
     end: "2025-06-30"
     summary: "Responsibilities include:\n- Organized seminars on mathematical paper writing and modeling, and coordinated various math competitions.\n- Spearheaded the planning and successful execution of the 'Guangzhou University Mathematical Modeling Invitational Tournament', significantly enhancing the society's influence on and off campus.\n- Actively promoted and managed social practice initiatives and public welfare projects."
@@ -82,5 +82,24 @@ languages:
     level: 5
   - name: "English"
     level: 3
+
+
+
 awards: 
-  - title: "Coming Soon"
+  - title: "Gold Award (1st Place)"
+    icon: "fas/trophy"
+    awarder: "Greater Bay Area 'AI for Science' Technology Competition"
+    date: "2025-10-01"
+    summary: "Ranked 1st among nearly 400 competing teams. Designed a Feature-Modulated Neural Network (FMNN)  based on Physics-Informed Neural Networks (PINNs) to effectively solve high-frequency PDEs. Invited to present this research at the 2025 Hunan-Guangdong Joint Annual Conference on Computational Mathematics."
+
+  - title: "Silver Award (2nd Place)"
+    icon: fas/award
+    awarder: "Winter School on Artificial Intelligence and Quantum Technology"
+    date: "2026-01-01"
+    summary: "Completed the research project 'Quantum Learning Representation and Optimization for Multimodal Tasks.' Identified the feature dimension bottleneck in quantum-classical hybrid deep learning architectures and innovatively designed a hybrid data-reupload architecture (HYDRA). This approach enabled distributed computing and significantly improved the representation capacity of quantum circuits."
+
+  - title: "National Second Prize"
+    icon: fas/award
+    awarder: "CUMCM"
+    date: "2025-10-01"
+    # summary: "Constructed comprehensive mathematical models to address complex problems. Applied advanced computational algorithms and optimization methods, conducted data analysis, and co-authored a professional technical paper."

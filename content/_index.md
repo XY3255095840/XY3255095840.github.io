@@ -36,7 +36,7 @@ sections:
         - **2026.07**: Started an internship at the **XAI Lab, Tongji University**, responsible for large language model fine-tuning, quantization compression, and edge deployment.
         - **2026.05**: Attended the **Alibaba Guangzhou Foreign Trade Summit** at the Alibaba Center in Pazhou.
         - **2026.05**: Currently exploring the field of **World Models** and their applications.
-        - **2026.01**: Participated as a visiting student in the Winter School on Artificial Intelligence and Quantum Technology at Hetao Academy & Shenzhen Institute for **Quantum Science and Engineering**.
+        - **2026.01**: Participated as a visiting student in the Winter School on Artificial Intelligence and Quantum Technology at **Shenzhen Loop Area Institute & Shenzhen International Quantum Academy**.
     design:
       columns: '1'
       spacing:
