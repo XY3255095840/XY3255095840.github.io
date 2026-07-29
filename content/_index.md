@@ -33,7 +33,7 @@ sections:
       title: Recent Activities
       subtitle: ''
       text: |-
-        - **2026.07**: Represented the **XAI Lab** by invitation at **AUMOVIO Innovation Day**, exploring practical **on-device AI deployment**.
+        - **2026.07**: Represented the **XAI Lab** by invitation at **AUMOVIO Innovation Day**, exploring practical **edge AI deployment**.
         - **2026.07**: Started an internship at the **XAI Lab, Tongji University**, responsible for large language model fine-tuning, quantization compression, and edge deployment.
         - **2026.05**: Attended the **Alibaba Guangzhou Foreign Trade Summit** at the Alibaba Center in Pazhou.
         - **2026.05**: Currently exploring the field of **World Models** and their applications.
