@@ -29,16 +29,17 @@ education:
 
 
 experience:
-  - role: "Vice President"
-    org: "Applied Mathematics Research Society, South China Normal University"
-    start: "2024-09-01"
-    end: "2025-06-30"
-    summary: "Responsibilities include:\n- Organized seminars on mathematical paper writing and modeling, and coordinated various math competitions.\n- Spearheaded the planning and successful execution of the 'Guangzhou University Mathematical Modeling Invitational Tournament', significantly enhancing the society's influence on and off campus.\n- Actively promoted and managed social practice initiatives and public welfare projects."
-  - role: "Technical Management"
-    org: "Guangdong Yuehai Yuexi Water Supply Co., Ltd."
-    start: "2025-07-01"
-    end: "2025-07-31"
-    summary: "Responsibilities include:\n- Assisted in formulating the company's AI technology application guidelines.\n- Coordinated with external software vendors for project development, conducting preliminary requirements gathering.\n- Defined product design objectives and core functionalities for software projects."
+  - role: "Visiting Student"
+    org: "XAI Lab, Tongji University"
+    start: "2026-07-01"
+    end: "2026-09-01"
+    summary: "Responsibilities include:\n- Participated in the R&D of an on-device Agent system for intelligent cockpits (in collaboration with ZEEKR).\n- Designed a dynamic routing mechanism for multimodal information value assessment, adaptively filtering Agent input features to improve real-time on-device inference efficiency.\n- Constructed an Agent simulation fine-tuning dataset for complex cabin interactions, supporting domain adaptation and decision-making training."
+
+  - role: "Teaching Assistant"
+    org: "School of Mathematical Sciences, South China Normal University"
+    start: "2025-10-01"
+    end: "2026-02-01"
+    summary: "Responsibilities include:\n- Assisted Prof. Qi Ye in designing experimental content for Chapter 4 of the textbook 'Optimization Methods and Machine Learning' (a National 14th Five-Year Plan textbook).\n- Developed and implemented experiments for optimization algorithms, including Gradient Descent, Subgradient Methods, Line Search, and Newton's Method.\n- Evaluated and documented the performance metrics and theoretical limitations of various optimization approaches."
 
   - role: "Intern Engineer"
     org: "Guangzhou Xinbang Intelligent Equipment Co., Ltd."
@@ -46,11 +47,17 @@ experience:
     end: "2025-09-01"
     summary: "Responsibilities include:\n- Participated in robotics projects within the Aviation Equipment Division and assisted in hardware selection.\n- Designed and calibrated robot motion programs.\n- Developed and trained computer vision models for robotic tasks."
 
-  - role: "Teaching Assistant"
-    org: "School of Mathematical Sciences, South China Normal University"
-    start: "2025-10-01"
-    end: "2026-02-01"
-    summary: "Responsibilities include:\n- Assisted Prof. Qi Ye in designing experimental content for Chapter 4 of the textbook 'Optimization Methods and Machine Learning' (a National 14th Five-Year Plan textbook).\n- Developed and implemented experiments for optimization algorithms, including Gradient Descent, Subgradient Methods, Line Search, and Newton's Method.\n- Evaluated and documented the performance metrics and theoretical limitations of various optimization approaches."
+  - role: "Technical Management"
+    org: "Guangdong Yuehai Yuexi Water Supply Co., Ltd."
+    start: "2025-07-01"
+    end: "2025-07-31"
+    summary: "Responsibilities include:\n- Assisted in formulating the company's AI technology application guidelines.\n- Coordinated with external software vendors for project development, conducting preliminary requirements gathering.\n- Defined product design objectives and core functionalities for software projects."
+
+  - role: "Vice President"
+    org: "Applied Mathematics Research Society, South China Normal University"
+    start: "2024-09-01"
+    end: "2025-06-30"
+    summary: "Responsibilities include:\n- Organized seminars on mathematical paper writing and modeling, and coordinated various math competitions.\n- Spearheaded the planning and successful execution of the 'Guangzhou University Mathematical Modeling Invitational Tournament', significantly enhancing the society's influence on and off campus.\n- Actively promoted and managed social practice initiatives and public welfare projects."
 
 
 
