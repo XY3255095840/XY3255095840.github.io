@@ -1,0 +1,49 @@
+{{ if .IsHome }}
+<style>
+  .experience-disclosure > summary {
+    width: fit-content;
+    cursor: pointer;
+    padding: 0.5rem 0;
+  }
+  .experience-disclosure > summary:focus-visible {
+    outline: 2px solid currentColor;
+    outline-offset: 4px;
+  }
+  .experience-disclosure .experience-collapse,
+  .experience-disclosure[open] .experience-expand {
+    display: none;
+  }
+  .experience-disclosure[open] .experience-collapse {
+    display: inline;
+  }
+  .experience-disclosure > .space-y-8 {
+    margin-top: 2rem;
+  }
+</style>
+<script>
+  (() => {
+    const timeline = document.querySelector('#section-resume-experience .space-y-8');
+    if (!timeline || timeline.children.length < 2) return;
+
+    const items = Array.from(timeline.children).slice(1);
+    const disclosure = document.createElement('details');
+    disclosure.className = 'experience-disclosure';
+
+    const summary = document.createElement('summary');
+    summary.className = 'text-sm font-medium text-primary-600 dark:text-primary-400';
+    const expandLabel = document.createElement('span');
+    expandLabel.className = 'experience-expand';
+    expandLabel.textContent = 'Show all experience';
+    const collapseLabel = document.createElement('span');
+    collapseLabel.className = 'experience-collapse';
+    collapseLabel.textContent = 'Show less';
+    summary.append(expandLabel, collapseLabel);
+
+    const remaining = document.createElement('div');
+    remaining.className = 'space-y-8';
+    remaining.append(...items);
+    disclosure.append(summary, remaining);
+    timeline.append(disclosure);
+  })();
+</script>
+{{ end }}
